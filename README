@@ -1,0 +1,69 @@
+# 🎮 JSTetris
+
+Tetris clásico implementado desde cero en **JavaScript puro**, **HTML5 Canvas** y **CSS**. Este proyecto no utiliza frameworks ni librerías externas, lo que lo convierte en un excelente ejemplo educativo y visualmente atractivo de cómo desarrollar un videojuego retro desde lo básico.
+
+![preview](https://user-images.githubusercontent.com/yourimage.png) <!-- (opcional: puedes subir un gif o imagen de gameplay al repo y referenciarlo aquí) -->
+
+---
+
+## 🧩 Características
+
+- Motor de juego simple basado en `requestAnimationFrame`.
+- Sistema de puntuación.
+- Interfaz para mostrar la siguiente pieza.
+- Mecánicas completas: rotación, hard-drop, detección de colisiones, limpieza de líneas.
+- Diseño responsive en pantalla de escritorio.
+- Pantalla de "Game Over" con reinicio inmediato.
+
+---
+
+## 📁 Estructura del Proyecto
+
+JSTetris/
+├── index.html # Estructura del juego en HTML
+├── styles.css # Estilos visuales y diseño responsivo
+└── script.js # Lógica completa del juego
+
+yaml
+Copiar
+Editar
+
+---
+
+## 🚀 Cómo usar
+
+### 🔗 Versión online
+Puedes jugar directamente [aquí](https://astt3r.github.io/JSTetris/) 
+
+### 💻 Ejecutar localmente
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/Astt3r/JSTetris.git
+cd JSTetris
+Abre el archivo index.html en tu navegador.
+
+🎮 Controles
+Tecla	Acción
+← / →	Mover pieza izquierda / derecha
+↓	Caída rápida
+↑ / Espacio	Rotar pieza
+W	Hard drop (caída instantánea)
+
+🛠️ Posibles mejoras
+Guardar puntuación más alta.
+
+Niveles progresivos y aumento de velocidad.
+
+Soporte para móviles.
+
+Música y efectos de sonido retro.
+
+Selector de tema visual.
+
+📜 Licencia
+Este proyecto está bajo la licencia MIT.
+
+🤝 Créditos
+Desarrollado por Astt3r. Inspirado en el clásico Tetris y creado como práctica personal de desarrollo web.
