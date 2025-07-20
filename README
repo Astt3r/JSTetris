@@ -1,32 +1,38 @@
 # 🎮 JSTetris
 
-Tetris clásico implementado desde cero en **JavaScript puro**, **HTML5 Canvas** y **CSS**. Este proyecto no utiliza frameworks ni librerías externas.
+Tetris clásico implementado desde cero en **JavaScript puro**, **HTML5 Canvas** y **CSS**. Este proyecto no utiliza frameworks ni librerías externas
 
 ---
 
 ## 🧩 Características
 
-- Motor de juego simple basado en `requestAnimationFrame`.
-- Sistema de puntuación.
-- Interfaz para mostrar la siguiente pieza.
-- Mecánicas completas: rotación, hard-drop, detección de colisiones, limpieza de líneas.
-- Diseño responsive en pantalla de escritorio.
-- Pantalla de "Game Over" con reinicio inmediato.
+* Motor de juego simple basado en `requestAnimationFrame`.
+* Sistema de puntuación.
+* Interfaz para mostrar la siguiente pieza.
+* Mecánicas completas: rotación, hard-drop, detección de colisiones, limpieza de líneas.
+* Diseño responsive en pantalla de escritorio.
+* Pantalla de "Game Over" con reinicio inmediato.
 
 ---
 
 ## 📁 Estructura del Proyecto
 
+```
 JSTetris/
-├── index.html # Estructura del juego en HTML
-├── styles.css # Estilos visuales y diseño responsivo
-└── script.js # Lógica completa del juego
+├── index.html       # Estructura del juego en HTML
+├── styles.css       # Estilos visuales y diseño responsivo
+└── script.js        # Lógica completa del juego
+```
+
 ---
 
 ## 🚀 Cómo usar
 
 ### 🔗 Versión online
-Puedes jugar directamente [aquí](https://astt3r.github.io/JSTetris/) 
+
+Puedes jugar directamente aquí:
+
+👉 [https://astt3r.github.io/JSTetris/](https://astt3r.github.io/JSTetris/)
 
 ### 💻 Ejecutar localmente
 
@@ -35,28 +41,39 @@ Puedes jugar directamente [aquí](https://astt3r.github.io/JSTetris/)
 ```bash
 git clone https://github.com/Astt3r/JSTetris.git
 cd JSTetris
-Abre el archivo index.html en tu navegador.
+```
 
-🎮 Controles
-Tecla	Acción
-← / →	Mover pieza izquierda / derecha
-↓	Caída rápida
-↑ / Espacio	Rotar pieza
-W	Hard drop (caída instantánea)
+2. Abre el archivo `index.html` en tu navegador favorito.
 
-🛠️ Posibles mejoras
-Guardar puntuación más alta.
+---
 
-Niveles progresivos y aumento de velocidad.
+## 🎮 Controles
 
-Soporte para móviles.
+| Tecla       | Acción                            |
+| ----------- | --------------------------------- |
+| ← / →       | Mover pieza izquierda / derecha   |
+| ↓           | Caída rápida                      |
+| ↑ / Espacio | Rotar pieza                       |
+| W           | **Hard drop** (caída instantánea) |
 
-Música y efectos de sonido retro.
+---
 
-Selector de tema visual.
+## 🛠️ Posibles mejoras
 
-📜 Licencia
-Este proyecto está bajo la licencia MIT.
+* Guardar puntuación más alta.
+* Niveles progresivos y aumento de velocidad.
+* Soporte para móviles.
+* Música y efectos de sonido retro.
+* Selector de tema visual.
 
-🤝 Créditos
-Desarrollado por Astt3r. Inspirado en el clásico Tetris y creado como práctica personal de desarrollo web.
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+---
+
+## 🤝 Créditos
+
+Desarrollado por [Astt3r](https://github.com/Astt3r). Inspirado en el clásico Tetris y creado como práctica personal de desarrollo web.
