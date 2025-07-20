@@ -44,7 +44,6 @@ xdg-open index.html  # En Linux
 | ⬇️           | Caída suave                       |
 | ⬆️ o Espacio | Rotar pieza                       |
 | W            | Hard Drop (caída instantánea)     |
-| R            | Reiniciar (con botón en pantalla) |
 
 ## 🧠 Tecnologías Usadas
 
@@ -63,9 +62,8 @@ JSTetris/
 
 ## 🛠 TODO / Ideas Futuras
 
-* Añadir niveles y aumento de velocidad progresivo
 * Música y efectos de sonido
-* Sistema de puntajes altos (high scores)
+* Sistema de puntajes altos
 * Soporte táctil para dispositivos móviles
 
 ## 📜 Licencia
