@@ -21,11 +21,6 @@ JSTetris/
 ├── index.html # Estructura del juego en HTML
 ├── styles.css # Estilos visuales y diseño responsivo
 └── script.js # Lógica completa del juego
-
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 Cómo usar
