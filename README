@@ -1,8 +1,6 @@
 # 🎮 JSTetris
 
-Tetris clásico implementado desde cero en **JavaScript puro**, **HTML5 Canvas** y **CSS**. Este proyecto no utiliza frameworks ni librerías externas, lo que lo convierte en un excelente ejemplo educativo y visualmente atractivo de cómo desarrollar un videojuego retro desde lo básico.
-
-![preview](https://user-images.githubusercontent.com/yourimage.png) <!-- (opcional: puedes subir un gif o imagen de gameplay al repo y referenciarlo aquí) -->
+Tetris clásico implementado desde cero en **JavaScript puro**, **HTML5 Canvas** y **CSS**. Este proyecto no utiliza frameworks ni librerías externas.
 
 ---
 
